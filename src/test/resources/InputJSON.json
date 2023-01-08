@@ -1,0 +1,11 @@
+{
+    "email": "json.edwards@reqres.in",
+    "first_name": "Will",
+    "last_name": "Smith",
+    "address": "New York",
+    "age": 54,
+    "courses": [
+        "Acting",
+        "OSCAR"
+    ]
+}

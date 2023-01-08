@@ -66,5 +66,103 @@
       "name": "Arts",
       "id": 2
     }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "email": "yogi.edwards@reqres.in",
+      "first_name": "Yogesh",
+      "last_name": "Nipte",
+      "address": "Mumbai",
+      "age": 34,
+      "courses": [
+        "CS",
+        "AOA"
+      ]
+    },
+    {
+      "email": "yogi.edwards@reqres.in",
+      "first_name": "Priya",
+      "last_name": "Nipte",
+      "address": "Mumbai",
+      "age": 30,
+      "courses": [
+        "CS",
+        "AOA"
+      ],
+      "id": 2
+    },
+    {
+      "email": "pune.edwards@reqres.in",
+      "first_name": "Pravin",
+      "last_name": "Tambe",
+      "address": "Pune",
+      "age": "22",
+      "courses": [
+        "CS",
+        "AOA",
+        "C++"
+      ],
+      "id": 3
+    },
+    {
+      "courses": [
+        "JAVA",
+        "Python"
+      ],
+      "address": "Thane",
+      "last_name": "Nipte",
+      "first_name": "Taksh",
+      "email": "testotwo@gmail.com",
+      "age": 2,
+      "id": 4
+    },
+    {
+      "courses": [
+        "JAVA",
+        "Python"
+      ],
+      "address": "Thane",
+      "last_name": "Nipte",
+      "first_name": "Taksh",
+      "email": "testotwo@gmail.com",
+      "age": 2,
+      "id": 5
+    },
+    {
+      "courses": [
+        "BCOM",
+        "MCOM"
+      ],
+      "address": "Parel",
+      "last_name": "Bhojne",
+      "first_name": "Mahesh",
+      "email": "testotwo@gmail.com",
+      "age": 2,
+      "id": 6
+    },
+    {
+      "first_name": "Rupesh",
+      "last_name": "Gawde",
+      "address": "Parel",
+      "age": "33",
+      "courses": [
+        "CA"
+      ],
+      "email": "testoPOJO@gmail.com",
+      "id": 7
+    },
+    {
+      "courses": [
+        "Acting",
+        "OSCAR"
+      ],
+      "address": "New York",
+      "last_name": "Smith",
+      "first_name": "Will",
+      "email": "json.edwards@reqres.in",
+      "age": 54,
+      "id": 8
+    }
   ]
 }
